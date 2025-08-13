@@ -75,7 +75,7 @@
       "required": false 
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number eg, 2547xxxxxxx",
+      "description": "Enter your number eg, 2567xxxxxxx",
       "value": "",
       "required": false 
     },
@@ -96,7 +96,7 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "Ash tech",
       "required": false
     },
     "SESSION_ID": {
